@@ -2,7 +2,7 @@ package nisan3;
 
 public class forLoop {
     public static void main(String[] args) {
-        //x ve y tam sayilari arasinda kalan sayilardan 3'e bolunebile
+        //x ve y tam sayilari arasinda kalan sayilardan 3'e bolunebilen
         //sayilarin toplamini bulan (y>x)
         int x=20;
         int y=24;
